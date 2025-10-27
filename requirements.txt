@@ -1,0 +1,13 @@
+#Install dependencies before running the notebook:
+
+pip install numpy pandas matplotlib scikit-learn tensorflow keras
+
+#How to run:
+->Clone this repository:
+git clone https://github.com/yourusername/breast-cancer-nn.git
+cd breast-cancer-nn
+
+->Launch Jupyter Notebook:
+jupyter notebook "Breast Cancer(NN).ipynb"
+
+->Run all cells sequentially to reproduce the results
