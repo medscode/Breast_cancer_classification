@@ -20,12 +20,12 @@
 
 ##Dataset
 
--Source: Breast Cancer Wisconsin (Diagnostic) Dataset (available in sklearn.datasets)
--Samples: 569
--Features: 30 numeric features (mean, standard error, and worst values of cell nuclei measurements)
-->Target Classes:
-    0 — Malignant
-    1 — Benign
+- Source: Breast Cancer Wisconsin (Diagnostic) Dataset (available in sklearn.datasets)
+- Samples: 569
+- Features: 30 numeric features (mean, standard error, and worst values of cell nuclei measurements)
+- Target Classes:
+  0 — Malignant;
+  1 — Benign
 
 
 
